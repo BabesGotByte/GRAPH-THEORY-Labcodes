@@ -1,2 +1,5 @@
 # Graph_Theory_Codes
-Python code to draw UnDirected graph, Directed graph and Mixed graph from its adjacency matrix
+
+1: 
+Python code to plot UnDirected graph, Directed graph and Mixed graph from its adjacency matrix.
+U tube link:  https://www.youtube.com/watch?v=Y186GaNNZBQ
