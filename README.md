@@ -10,4 +10,6 @@ Train a system to recognize 5 English characters. Recognize how often the traine
 
 3: 
 Let intersection operation of graphs G1 and G2 is defined as G1 Ո G2. 
-Demonstrate for : Empty/NullConnected graph, Disconnected graph and Resultant is an original graph.
+Demonstrate for : 
+- Empty/NullConnected graph, 
+- Disconnected graph and Resultant is an original graph.
