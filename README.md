@@ -14,3 +14,9 @@ Demonstrate for : <br/>
 * Empty/NullConnected graph,
 * Disconnected graph
 * Resultant is an original graph.
+
+4:
+Given G(n,e) <br/>
+* Extract all possible Hamiltonian circuits and edge disjoint Hamiltonian circuits, if G(n, e) is Hamiltonian else extract Hamiltonian path.<br/>
+* If edges are weighted, then extract the least cost Hamiltonian circuit (or Hamiltonian path).<br/>
+Validate the circuits if G is directed.
