@@ -23,3 +23,10 @@ Given G(n,e) <br/>
 * Extract all possible Hamiltonian circuits and edge disjoint Hamiltonian circuits, if G(n, e) is Hamiltonian else extract Hamiltonian path.<br/>
 * If edges are weighted, then extract the least cost Hamiltonian circuit (or Hamiltonian path).<br/>
 Validate the circuits if G is directed.
+
+## More
+More details can be found in the documentation present in the repository. 
+You may visit screen recoded videos for more clarification.
+
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
