@@ -1,5 +1,8 @@
 # Graph_Theory_Codes
 
+[![Generic badge](https://img.shields.io/badge/GRAPH-THEORY-BLUE.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/IMAGE-PROCESSING-<BLUE>.svg)](https://shields.io/)
+
 1: 
 Python code to plot UnDirected graph, Directed graph and Mixed graph from its adjacency matrix.<br/>
 U tube link:  https://www.youtube.com/watch?v=Y186GaNNZBQ
