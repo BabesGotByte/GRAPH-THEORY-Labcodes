@@ -25,6 +25,10 @@ Given G(n,e) <br/>
 * If edges are weighted, then extract the least cost Hamiltonian circuit (or Hamiltonian path).<br/>
 Validate the circuits if G is directed.
 
+5:
+Construct spanning tree using DFS traversal of given graph.<br/>
+
+
 ## More
 More details can be found in the documentation present in the repository. 
 You may visit screen recoded videos for more clarification.
